@@ -1,4 +1,4 @@
-AellyOfficialAellyOfficialAelly.0Aelly.0Aelly.0Aelly//Aelly ◎◎◎ https://t.me/kkara9009\\
+//Aelly ◎◎◎ https://t.me/kkara9009\\
 //══════════════THANKS FOR CHEEMS BOT MD (DGNEON)═ALL THE CREADITS GOES TO HIM═════════════\\
 // EXAM 😓😓😓 GOOD LUCK ALL\\
 const fs = require('fs')
