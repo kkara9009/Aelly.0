@@ -31,15 +31,3 @@
 4. Click [FORK](https://github.com/anunicn47/Aelly.0/fork)
 5. Upload Session.json You Forked Repo
 6. Deploy And Enjoy
-
-## ALL THE CREDITS GOES TO ORIGINAL REPO OWNER DGNEON (CHEEMS BOT-MD)
-
-## UPDATES
-
-```2022.08.22 - Published```
-
-```2022.08.25 - Tiktok , YT Shorts and Your Tag Error Fixed```
-
-```2022.08.25 - AntiTag Removed```
-
-```2022.09.08 - Costomizeble Footer , APK Downloader , Tiktok Updated , New Alive with Costomizable Alive Massage and etc```
