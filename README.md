@@ -5,7 +5,7 @@
 <p align  = center> <a href="#"><img title="CYBER-X WHATSAPP BOT" src="https://img.shields.io/badge/Aelly WhatsApp Bot-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a> </p>
 
 ## QR Link 
-https://replit.com/@anunicn47/Aelly?output%20only=1&lite=1#index.js
+[![Run on Replit](https://replit.com/@anunicn47/Aelly?output%20only=1&lite=1#index.js)](https://replit.com/github/freeCodeCamp/Rust-in-Replit)
 
 
 ## ㅤㅤㅤᴅᴇᴘʟᴏʏ ᴏɴ ʜᴇʀᴏᴋᴜ​ 🚀
