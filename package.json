@@ -17,7 +17,7 @@ AellyOfficialAelly.0Aelly.0Aelly.0Aelly.0Aelly{
     "bot-md",
     "multi-device"
   ],
-  "author": "darkalphaxteam",
+  "author": "Karan Raj",
   "license": "MIT",
   "dependencies": {
     "@adiwajshing/baileys": "github:darkalphaxteam/baileys",
