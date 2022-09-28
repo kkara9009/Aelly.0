@@ -7,7 +7,7 @@
 ## QR Link
 [![Run on Replit](https://replit.com/badge/github/freeCodeCamp/Rust-in-Replit)](https://replit.com/@anunicn47/Aelly?output%20only=1&lite=1#index.js)
 
-https://replit.com/@anunicn47/Aelly?output%20only=1&lite=1#index.js
+
 
 
 ## ㅤㅤㅤᴅᴇᴘʟᴏʏ ᴏɴ ʜᴇʀᴏᴋᴜ​ 🚀
