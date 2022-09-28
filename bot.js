@@ -121,15 +121,15 @@ async function startBixbyMD() {
        }
        let lolXeon = { url : ppgc }
        if (pea[0].announce == true) {
-       BixbyMD.send5ButImg(pea[0].id, `*GROUP SETTING CHANGED*\n\n🚀. The Group Has Been Closed By Admin, Now Only Admin Can Send Messages !`, `ᴄʏʙᴇʀ-x ᴡʜᴀᴛꜱᴀᴘᴘ user ʙᴏᴛ`, lolXeon, [])
+       BixbyMD.send5ButImg(pea[0].id, `*GROUP SETTING CHANGED*\n\n🚀. The Group Has Been Closed By Admin, Now Only Admin Can Send Messages !`, `ᴬᴱᴸᴸ ᴡʜᴀᴛꜱᴀᴘᴘ user ʙᴏᴛ`, lolXeon, [])
        } else if(pea[0].announce == false) {
-       BixbyMD.send5ButImg(pea[0].id, `*GROUP SETTING CHANGED*\n\n🚀. The Group Has Been Opened By Admin, Now Participants Can Send Messages !`, `ᴄʏʙᴇʀ-x ᴡʜᴀᴛꜱᴀᴘᴘ user ʙᴏᴛ`, lolXeon, [])
+       BixbyMD.send5ButImg(pea[0].id, `*GROUP SETTING CHANGED*\n\n🚀. The Group Has Been Opened By Admin, Now Participants Can Send Messages !`, `ᴬᴱᴸᴸ ᴡʜᴀᴛꜱᴀᴘᴘ user ʙᴏᴛ`, lolXeon, [])
        } else if (pea[0].restrict == true) {
-       BixbyMD.send5ButImg(pea[0].id, `*GROUP SETTING CHANGED*\n\n🚀. Group Info Has Been Restricted, Now Only Admin Can Edit Group Info !`, `ᴄʏʙᴇʀ-x ᴡʜᴀᴛꜱᴀᴘᴘ user ʙᴏᴛ`, lolXeon, [])
+       BixbyMD.send5ButImg(pea[0].id, `*GROUP SETTING CHANGED*\n\n🚀. Group Info Has Been Restricted, Now Only Admin Can Edit Group Info !`, `ᴬᴱᴸᴸ ᴡʜᴀᴛꜱᴀᴘᴘ user ʙᴏᴛ`, lolXeon, [])
        } else if (pea[0].restrict == false) {
-       BixbyMD.send5ButImg(pea[0].id, `*GROUP SETTING CHANGED*\n\n🚀. Group Info Has Been Opened, Now Participants Can Edit Group Info !`, `ᴄʏʙᴇʀ-x ᴡʜᴀᴛꜱᴀᴘᴘ user ʙᴏᴛ`, lolXeon, [])
+       BixbyMD.send5ButImg(pea[0].id, `*GROUP SETTING CHANGED*\n\n🚀. Group Info Has Been Opened, Now Participants Can Edit Group Info !`, `ᴬᴱᴸᴸ ᴡʜᴀᴛꜱᴀᴘᴘ user ʙᴏᴛ`, lolXeon, [])
        } else {
-       BixbyMD.send5ButImg(pea[0].id, `*GROUP SETTING CHANGED*\n\n🚀. Group Subject Has Been Changed To *${pea[0].subject}*`, `ᴄʏʙᴇʀ-x ᴡʜᴀᴛꜱᴀᴘᴘ user ʙᴏᴛ`, lolXeon, [])
+       BixbyMD.send5ButImg(pea[0].id, `*GROUP SETTING CHANGED*\n\n🚀. Group Subject Has Been Changed To *${pea[0].subject}*`, `ᴬᴱᴸᴸ ᴡʜᴀᴛꜱᴀᴘᴘ user ʙᴏᴛ`, lolXeon, [])
      }
     })
     
