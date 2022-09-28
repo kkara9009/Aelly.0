@@ -1,4 +1,4 @@
-AellyOfficialAelly##                       Aelly WHATSAPP BOT
+                                                          Aelly
 
 <p align = center>   <img src="https://telegra.ph/file/8008aa64eb036af724259.jpg" alt="GIF" width="250" height="250"/> </p>
 
