@@ -7,7 +7,7 @@ AellyOfficialAelly##                       Aelly WHATSAPP BOT
 ## QR Link 
 https://replit.com/@anunicn47/Aelly?output%20only=1&lite=1#index.js
 ## Deploy Link Template 
-```https://heroku.com/deploy?template=https://github.com/anunicn47/Cyber-X-Beta-Release```
+```https://heroku.com/deploy?template=https://github.com/anunicn47/Aelly.0```
 
 
 
