@@ -1,5 +1,5 @@
-AellyOfficialAelly.0Aelly.0Aelly.0Aelly.0Aelly{
-  "name": "Aelly",
+{
+  "name": "Aelly.0",
   "version": "1.0.0",
   "description": "Autometic WhatsApp Bot",
   "main": "bot.js",
@@ -17,7 +17,7 @@ AellyOfficialAelly.0Aelly.0Aelly.0Aelly.0Aelly{
     "bot-md",
     "multi-device"
   ],
-  "author": "Karan Raj",
+  "author": "darkalphaxteam",
   "license": "MIT",
   "dependencies": {
     "@adiwajshing/baileys": "github:darkalphaxteam/baileys",
@@ -75,10 +75,10 @@ AellyOfficialAelly.0Aelly.0Aelly.0Aelly.0Aelly{
   "devDependencies": {},
   "repository": {
     "type": "git",
-    "url": "https://github.com/AellyOfficial/Aelly.0.git"
+    "url": "https://github.com/anunicn47/Aelly.0.git"
   },
   "bugs": {
-    "url": "https://github.com/AellyOfficial/Aelly.0/issues"
+    "url": "https://github.com/anunicn47/Aelly.0/issues"
   },
-  "homepage": "https://github.com/AellyOfficial/Aelly.0#readme"
+  "homepage": "https://github.com/anunicn47/Aelly.0#readme"
 }
