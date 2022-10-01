@@ -1,7 +1,7 @@
 {
   "name": "Aelly.0",
   "description": "whatsapp md bot build with nodejs",
-  "repository": "https://github.com/anunicn47/Aelly.0",
+  "repository": "https://github.com/kkara9009/Aelly.0",
   "logo": "https://telegra.ph/file/8008aa64eb036af724259.jpg",
   "keywords": ["nodejs", "bot", "whatsapp bot", "whatsapp automation", "multi device"],
   "buildpacks": [
